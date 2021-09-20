@@ -1,0 +1,40 @@
+.bg-aquamarine {
+    background-color: aquamarine;
+}
+
+.bg-lemonChiffon {
+    background-color: LemonChiffon;
+}
+
+.bg-plum {
+    background-color: Plum;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-mistyrose {
+    background-color: MistyRose;
+}
+
+.bg-papayawhip {
+    background-color:PapayaWhip;
+}
+
+.bg-lightBlue {
+    background-color:LightBlue;
+}
+
+.contacts {
+    padding-top: 30px;
+
+}   
+
+body {
+    font-family: "Gluten", "Arial", sans-serif;
+  }
+
+footer {
+    color:blue;
+  }
