@@ -30,24 +30,7 @@ Until now, I have developed sites for test assignments and took some courses. I 
 
 * **VS code** (novice)
 
-## Excemple of code :
-```javascript
-function createTree(){
-                const tree = document.getElementById("tree");
-                let result=""; 
-                for(let y=0; y<5; y++){
-                    let str=""; 
-                    for(let a=4; a>=y; a--){
-                        str+=" ";
-                    }
-                    for(let x=0; x<y+1; x++){
-                        str+="* ";
-                    }
-                    result+=str+"\n";
-                }
-                tree.innerText = result;
-            }
-```
+
 
 No experience in IT. 
 
